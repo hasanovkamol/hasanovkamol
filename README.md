@@ -35,9 +35,6 @@ Dynamic **Full-Stack Developer** specializing in building high-load distributed 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanovkamol&layout=compact&theme=tokyonight" height="170" alt="Hasanov Kamol's Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanovkamol&theme=tokyonight" alt="Hasanov Kamol's Streak" />
-</p>
 
 ---
 
