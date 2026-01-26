@@ -9,8 +9,8 @@ Dynamic **Full-Stack Developer** specializing in building high-load distributed 
 * **Backend & Desktop: **ASP.NET Core, WPF, WinForms**.
 * **Frontend:**Angular & TypeScript**.
 * **Microservices:** Event-driven architecture with **RabbitMQ, Kafka**, and **SignalR**.
-* **Performance:** Advanced caching via **Redis** and **SQL** optimization.
-* **Observability:** Monitoring systems with **OpenTelemetry, Grafana, and Prometheus**.
+* **Observability:** Monitoring & Logging with **ELK Stack, Grafana, and OpenTelemetry**.
+* **Infrastructure:** Containerization with **Docker** and CI/CD mindset.
 
 ---
 
@@ -22,8 +22,10 @@ Dynamic **Full-Stack Developer** specializing in building high-load distributed 
 | **Frontend** | Angular, TypeScript, RxJS, State Management |
 | **Desktop** | WPF, WinForms |
 | **Distributed** | RabbitMQ, Apache Kafka, Redis, Microservices |
-| **Database** | MS SQL Server, PostgreSQL |
-| **Monitoring** | OpenTelemetry, Grafana, Prometheus |
+| **Database** | MS SQL Server, PostgreSQL, Elasticsearch |
+| **Logging** | Serilog, Seq, ELK Stack (Logstash, Kibana) |
+| **Observability** | OpenTelemetry, Grafana, Prometheus |
+| **DevOps** | Docker, Docker Compose, Git |
 
 ---
 
