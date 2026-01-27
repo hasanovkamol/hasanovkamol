@@ -1,5 +1,5 @@
 # 👋 Hi, I'm H. Kamol
-### Senior Full-Stack & Distributed Systems Engineer
+### Senior Full-Stack  & .NET & Angular ### 
 
 ---
 
