@@ -18,7 +18,7 @@ Dynamic **Full-Stack Developer** specializing in building high-load distributed 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | .NET 8, ASP.NET Core, gRPC, EF Core, SignalR |
+| **Backend** | .NET, ASP.NET Core, gRPC, EF Core, SignalR |
 | **Frontend** | Angular, TypeScript, RxJS, State Management |
 | **Desktop** | WPF, WinForms |
 | **Distributed** | RabbitMQ, Apache Kafka, Redis, Microservices |
